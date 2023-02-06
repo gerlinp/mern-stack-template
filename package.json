@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN Shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerlinp/mern-stack-template.git"
+  },
+  "author": "Gerlin Pierre-Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerlinp/mern-stack-template/issues"
+  },
+  "homepage": "https://github.com/gerlinp/mern-stack-template#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
